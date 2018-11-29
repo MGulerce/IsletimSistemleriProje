@@ -1,0 +1,12 @@
+Ödev yardımcı linkler
+
+
+İŞL_SİS
+http://www.cagataycebi.com/programming/index.html
+https://bima.astro.umd.edu/checker/node22.html
+http://www-cs.canisius.edu/ONLINESTUFF/UNIX/shellprogramming.html
+https://www.geeksforgeeks.org/making-linux-shell-c/
+https://brennan.io/2015/01/16/write-a-shell-in-c/
+https://github.com/brenns10/lsh/blob/master/src/main.c
+http://bilgisayarkavramlari.sadievrenseker.com/2012/03/12/fork-fonksiyonu-ve-islem-catallanmasi/
+https://aonurozcan.com/linux-fork-exec-wait-islemleri
